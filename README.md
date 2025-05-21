@@ -52,3 +52,48 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 👩‍💻 Keitumetsi Moloi
+
+📍 Cape Town, South Africa  
+🎓 IT Student (Communication Networks) at CPUT  
+💼 In-service trainee at Plum Systems  
+
+---
+
+## 📄 Resume / CV
+
+[📥 Download My CV (PDF)](https://github.com/wil-it2025/cv-tutorial-KeitumetsiM18/blob/main/Keitumetsi_Moloi_CV.pdf)
+
+---
+
+## 🛠 Skills
+- **Networking:** Packet Tracer, Cisco Networking
+- **Operating Systems:** Linux (Red Hat Enterprise)
+- **Programming:** Java, JavaScript, HTML, CSS, SQL
+- **Cybersecurity:** Firewalls, Network Security Protocols
+- **Tools:** Microsoft Office Suite
+
+---
+
+## 📚 Certifications
+- Introduction to Cybersecurity – May 2023  
+- Relational Database: Essential Training  
+
+---
+
+## 👩‍💼 Experience
+**Plum Systems (Work Integrated Learning)**  
+- Testing  
+- DevOps  
+- Support  
+
+---
+
+## 🤝 Volunteer
+- GirlCode Hackathon
+
+---
+
+## 🌐 Languages
+- English, Afrikaans, isiXhosa, Sesotho
+
