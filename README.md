@@ -64,7 +64,21 @@ I have successfully completed the following professional development assessments
 - ✅ Career Development Assessment  
 - ✅ Create a CV Assessment  
 
+##  Reflections on Career Development Assessments
 
+### ✅ **Personality Assessment**
+This assessment helped me better understand my personal strengths, behavior in team settings, and preferred work styles. I learned how self-awareness plays a critical role in choosing the right career path and excelling in the workplace.
+
+### ✅ **Skills and Interests Assessment**
+Through this assessment, I identified the skills I currently possess and those I need to develop. It aligned my interests with potential career options in IT and cybersecurity, giving me more confidence in the direction I’m pursuing.
+
+### ✅ **Career Development Assessment**
+This assessment gave me a clear understanding of how to plan my career goals strategically. I learned how to align my academic and technical skills with real-world job expectations and how to position myself for future opportunities.
+
+### ✅ **Create a CV Assessment**
+Creating a CV helped me develop the ability to summarize my achievements and skills professionally. I now understand the importance of tailoring my CV for specific roles and how to present myself effectively to potential employers.
+
+---
 
 ## 👩‍💼 Experience
 **Plum Systems (Work Integrated Learning)**  
