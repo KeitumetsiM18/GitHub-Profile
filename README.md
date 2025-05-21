@@ -60,13 +60,10 @@ Here are some ideas to get you started:
 I have successfully completed the following professional development assessments as part of my academic and career preparation:
 
 - ✅ Personality Assessment  
-- ✅ Skills and Interests Assessment  
-- ✅ Workplace Etiquette Assessment  
-- ✅ Business Communication Assessment  
+- ✅ Skills and Interests Assessment    
 - ✅ Career Development Assessment  
 - ✅ Create a CV Assessment  
-- ✅ Interview Skills Assessment  
-- ✅ Professional Networking Assessment
+
 
 
 ## 👩‍💼 Experience
