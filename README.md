@@ -1,6 +1,6 @@
 <h1>Hi, I'm Keitumetsi! <br/><a href="https://github.com/joshmadakor1">Student</a>
 
-<h2>📺 Popular YouTube Videos</h2>
+<h2>📺 My CV Tutorial Video</h2>
 - [📥 CV Tutorial Video](https://github.com/wil-it2025/cv-tutorial-KeitumetsiM18/blob/main/copy-82754659-8798-4e64-a968-b13666b8db2b-izypdffg_gAtt6egK%202.mp4)
 
 <h2> 🤳 Connect with me:</h2>
