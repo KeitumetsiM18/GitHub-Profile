@@ -25,6 +25,7 @@
 - [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
 - [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [📥 CV Tutorial Video](https://github.com/wil-it2025/cv-tutorial-KeitumetsiM18/blob/main/copy-82754659-8798-4e64-a968-b13666b8db2b-izypdffg_gAtt6egK%202.mp4)
 
 <h2> 🤳 Connect with me:</h2>
 
