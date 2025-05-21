@@ -57,6 +57,21 @@ Here are some ideas to get you started:
 - Relational Database: Essential Training  
 
 ---
+---
+
+## 🏅 Career Development Achievements
+
+I have successfully completed the following professional development assessments as part of my academic and career preparation:
+
+- ✅ Personality Assessment  
+- ✅ Skills and Interests Assessment  
+- ✅ Workplace Etiquette Assessment  
+- ✅ Business Communication Assessment  
+- ✅ Career Development Assessment  
+- ✅ Create a CV Assessment  
+- ✅ Interview Skills Assessment  
+- ✅ Professional Networking Assessment
+
 
 ## 👩‍💼 Experience
 **Plum Systems (Work Integrated Learning)**  
