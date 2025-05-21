@@ -62,7 +62,8 @@ I have successfully completed the following professional development assessments
 - ✅ Personality Assessment  
 - ✅ Skills and Interests Assessment    
 - ✅ Career Development Assessment  
-- ✅ Create a CV Assessment  
+- ✅ Create a CV Assessment
+- ✅ CV Submission
 
 ### ✅ **Personality Assessment**
 
@@ -98,7 +99,12 @@ I have successfully completed the following professional development assessments
 - **Action**: I used a structured template and tailored my CV to highlight relevant skills, certifications, and achievements like hackathons and coursework.
 - **Result**: I now have a clean, professional CV that I feel confident sharing. I also learned how to tailor it for different roles and how to present my value clearly to potential employers.
 
+### ✅ **CV Submission Assessment**
 
+- **Situation**: After preparing my CV, I was required to submit it formally as part of the assessment process to demonstrate my ability to follow professional job application standards.
+- **Task**: My goal was to finalize, polish, and submit a well-structured CV that reflected my career development progress.
+- **Action**: I carefully reviewed my CV for grammar, formatting, and consistency. I ensured that all sections (education, experience, skills) were relevant and tailored to the IT and cybersecurity fields.
+- **Result**: I submitted a professional CV that earned full marks, and the process boosted my confidence in applying for real-world opportunities. It reinforced the importance of attention to detail and clarity in professional documents.
 
 ---
 
